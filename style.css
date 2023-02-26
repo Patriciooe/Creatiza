@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+}
+
+#Trabajos {
+    background:linear-gradient(purple, pink, lightblue)
+}
+
+#myCarousel
+{
+    background:linear-gradient(rgb(0, 0, 0), rgb(4, 4, 255), rgb(2, 2, 46));
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
